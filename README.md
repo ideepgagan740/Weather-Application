@@ -7,6 +7,8 @@ There is one interesting feature, which display the image of the area which you 
 Technologies used:-
 HTML, CSS and Javascript Language.
 
+Please use below link to get more details about project.
+https://www.loom.com/share/aebc880200e74fb48757794b28b6f3f1
 
 
 
