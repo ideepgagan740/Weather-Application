@@ -1,5 +1,5 @@
 # Weather-Application
-This Project will show us the weather details of any area within world.
+This Project will show us the weather details of any area within the world.
 
 Data is fetched by using weather API.
 
