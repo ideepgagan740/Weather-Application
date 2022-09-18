@@ -3,7 +3,7 @@ This Project will show us the weather details of any area within the world.
 
 Data is fetched by using weather API.
 
-There is one interesting feature, which display the image of the area which you added in background.
+There is one interesting feature, which display the image of the specific area whose weaher condition you want to know.
 
 Technologies used:-
 HTML, CSS,BootStrap and Javascript Language.
